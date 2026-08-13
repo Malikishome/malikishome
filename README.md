@@ -15,7 +15,7 @@ I'd rather understand *why* something works than just get it running. Most of my
 
 ```txt
 const pierre = {
-  role: "Junior Software Developer",
+  role: "Software Developer",
   location: "Orlando, FL",
   currentFocus: ["React Native", "TypeScript", "System Design"],
   status: "Actively job hunting 🔍"
