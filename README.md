@@ -9,7 +9,7 @@
 
 ### 👋 About Me
 
-I'm a junior developer based in Orlando, FL, focused on full-stack development with React, Node.js, and TypeScript. I like building projects that solve real problems rather than following tutorials — from AI-powered tools to marketplace apps.
+I'm a software developer based in Orlando, FL, focused on full-stack development with React, Node.js, and TypeScript. I like building projects that solve real problems rather than following tutorials — from AI-powered tools to marketplace apps.
 
 I'd rather understand *why* something works than just get it running. Most of my projects start with actual planning and architecture decisions before I touch code.
 
